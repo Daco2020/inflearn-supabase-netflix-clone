@@ -39,4 +39,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 안내사항
 
 - `npm run generate-types` 명령어를 통해 supabase 의 스키마 타입을 가져올 수 있습니다.
-- `project-name` 을 검색하여 프로젝트 이름을 변경하세요.
