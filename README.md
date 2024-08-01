@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## 안내사항
+
+- `npm run generate-types` 명령어를 통해 supabase 의 스키마 타입을 가져올 수 있습니다.
+- `project-name` 을 검색하여 프로젝트 이름을 변경하세요.
