@@ -1,5 +1,12 @@
 "use client";
 
+import { useQuery } from "@tanstack/react-query";
+import MovieCardList from "components/movie-card-list";
+
 export default function UI() {
-  return <main className="w-full p-4">프로젝트 시작</main>;
+  return (
+    <main className="mt-16">
+      <MovieCardList />
+    </main>
+  );
 }
